@@ -1,6 +1,3 @@
-# Como o estado foi reiniciado, precisamos recriar o conteúdo do README.md e salvar novamente
-
-readme_content = """
 # Projeto de Banco de Dados - Oficina Mecânica
 
 ## 📌 Visão Geral  
